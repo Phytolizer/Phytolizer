@@ -1,5 +1,18 @@
 ### Hi there, I'm Kyle!
 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phytolizer&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Things I like working on:
+- Programming language interpreters and compilers
+- Game randomizers / level generators, particularly [Obsidian](https://github.com/obsidian-level-maker/Obsidian) which generates Doom levels
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phytolizer&theme=gruvbox&show_icons=true&exclude_repo=Obsidian&layout=compact&langs_count=10&size_weight=0.25&count_weight=0.75)](https://github.com/anuraghazra/github-readme-stats)
+Languages I am fluent in:
+- C++
+- C
+- Python
+- Rust
+
+Languages I am not fluent in, but enjoy writing:
+- OCaml
+- Clojure
+- Nim
+
+Check out my pins, they are my favorites!
